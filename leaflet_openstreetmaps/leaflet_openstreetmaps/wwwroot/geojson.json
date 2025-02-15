@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -38.354116, -12.956233 ]
+    },
+    "properties": {
+      "name": "Farol de Itapua"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -38.354116, -12.956233 ]
+    },
+    "properties": {
+      "name": "Farol de Itapua"
+    }
+  }
+]
